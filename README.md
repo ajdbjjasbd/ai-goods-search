@@ -16,11 +16,9 @@ https://aiprobe.top
 
 ## 网站截图
 
-### 检索台首页
+### AI检索结果展示
 
 <img width="2559" height="1288" alt="AIProbe 搜索台截图" src="https://github.com/user-attachments/assets/736dfcf5-2295-4167-8a2c-e507e6d4bef4" />
-
-### AI检索结果展示
 
 <img width="2559" height="1307" alt="Plus 低价结果示例一" src="https://github.com/user-attachments/assets/88d66767-8579-4f69-b644-00be7a967e3a" />
 
