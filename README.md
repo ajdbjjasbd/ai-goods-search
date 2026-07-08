@@ -18,8 +18,6 @@ https://aiprobe.top
 
 ### AI检索结果展示
 
-<img width="2559" height="1288" alt="AIProbe 搜索台截图" src="https://github.com/user-attachments/assets/736dfcf5-2295-4167-8a2c-e507e6d4bef4" />
-
 <img width="2559" height="1307" alt="Plus 低价结果示例一" src="https://github.com/user-attachments/assets/88d66767-8579-4f69-b644-00be7a967e3a" />
 
 <img width="2554" height="1297" alt="Plus 低价结果示例二" src="https://github.com/user-attachments/assets/cb2edc91-322f-43ba-afac-df93137df1d6" />
@@ -29,6 +27,8 @@ https://aiprobe.top
 <img width="2553" height="1291" alt="Gemini 结果示例" src="https://github.com/user-attachments/assets/227fddd7-fa00-44e9-861f-512cc8e87193" />
 
 <img width="2559" height="1305" alt="Claude 结果示例" src="https://github.com/user-attachments/assets/ce6cd452-475a-497d-9582-2040c7b2d81d" />
+
+<img width="2559" height="1288" alt="AIProbe 搜索台截图" src="https://github.com/user-attachments/assets/736dfcf5-2295-4167-8a2c-e507e6d4bef4" />
 
 ## 联系方式
 
